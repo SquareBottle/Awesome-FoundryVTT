@@ -10,11 +10,6 @@ If you'd like to add a resource to one of the subdirectories, please follow the 
 
 If you'd like to propose a repository to add below, please [create an Issue](https://github.com/SquareBottle/Awesome-FoundryVTT/issues). It's okay if you don't intend to help design or maintain it. Somebody who has the time might like the idea enough to get the ball rolling.
 
-##### Formatting Help
-
-- [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 -------
 
 ## Repositories
