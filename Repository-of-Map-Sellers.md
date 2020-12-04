@@ -2,6 +2,14 @@
 
 This page is a repository that's part of [Awesome-FoundryVTT](https://github.com/SquareBottle/Awesome-FoundryVTT). It only contains ready-to-use map sellers made specifically to integrate with [Foundry VTT](https://foundryvtt.com/) (walls, dynamic lighting, etc).
 
+#### Table of Contents
+
+- [Design Goals](#user-content-design-goals)
+- [Contributing](#user-content-contributing)
+- [Directory](#directory)
+  - [Authorized](#user-content-authorized)
+  - [Unauthorized](#user-content-unauthorized)
+
 #### Design Goals
 
 1. Be a centralized listing of as many map sellers as possible
