@@ -1,6 +1,6 @@
-# Awesome-FoundryVTT <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
+# Awesome-FoundryVTT
 
-This is a directory of resources specifically designed to integrate with Foundry VTT.
+This is a directory of resources specifically designed to integrate with [Foundry VTT](https://foundryvtt.com/).
 
 Instead of trying to have every type of resource crammed into a single overwhelming document, it is divided into respositories each contain exactly one type of resource. This keeps everything focused and allows each list to be organized in whichever way is most useful for people looking for a particular type of resource. For example, the best page layout for helping people find maps is likely to be quite different from the best page layout for helping people find sound effects.
 
