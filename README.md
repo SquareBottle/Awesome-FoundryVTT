@@ -1,0 +1,1 @@
+# awesome-maps-for-foundry-vtt
