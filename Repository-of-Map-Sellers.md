@@ -12,15 +12,13 @@ This is a repository of ready-to-use map sellers made specifically to integrate 
 
 # Directory
 
-By necessity, this directory is divided into two groups. The difference is that **Group A** entries have thumbnails that link to full-size screenshots, and might even have demos and discount codes. They are added and maintained by the sellers themselves (but must adhere to the rest of the page's formatting). **Group B** entries are just more than links to storefronts. 
-
 ## Authorized
 
 The sellers on this table have given us things like thumbnails that link to full-size screenshots, which are essential for the "window shopping" goal. There might even be demos and discount codes. (Demos that can be used without restriction will be marked with asterisks because everyone likes freebies.) Authorized entries are maintained by the sellers themselves.
 
 | Mapmaker | Thumbnail | Demo | Commissions | Price | Discount |
 | - | - | - | - | - | - |
-| [Example Seller](https://google.com) | - [![Thumbnail](https://dummyimage.com/250x200/d4d4d4/ffffff.png "Alt text")](https://dummyimage.com/1920x1280/d4d4d4/ffffff.png&text=Direct+link+to+full-size+screenshot) | [Yes](https://google.com) | No | $5/month; $50/year | "AWESOME" for 10% off |
+| [Example Seller](https://google.com) | [![Thumbnail](https://dummyimage.com/250x200/d4d4d4/ffffff.png "Alt text")](https://dummyimage.com/1920x1280/d4d4d4/ffffff.png&text=Direct+link+to+full-size+screenshot) | [Yes](https://google.com) | No | $5/month; $50/year | "AWESOME" for 10% off |
 
 ## Unauthorized
 
