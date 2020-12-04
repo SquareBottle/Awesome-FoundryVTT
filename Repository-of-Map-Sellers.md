@@ -12,11 +12,11 @@ This page is a repository that's part of [Awesome-FoundryVTT](https://github.com
 
 #### Contributing
 
-If you are not a map seller but you've found one that isn't listed anywhere on this page, then [create an Issue](https://github.com/SquareBottle/Awesome-FoundryVTT/issues) to tell us. But please do two things first:
+If you are not a map seller but you've found one that isn't listed anywhere on this page, then [create an Issue](https://github.com/SquareBottle/Awesome-FoundryVTT/issues) to tell us. But please do these things first:
 
-1. Doublecheck that it _really_ isn't listed on this page.
-2. Doublecheck that the seller makes maps that are designed _specifically_ to integrate with Foundry VTT. It should say so somewhere on their website/Patreon/whatever. When you create an issue, please link to where we can see this for ourselves.
-3. Double check that someone else hasn't already created an issue for it. If they have, then feel free to "bump" it to demonstrate demand and give us a nudge.
+- Doublecheck that it _really_ isn't listed on this page.
+- Doublecheck that the seller makes maps that are designed _specifically_ to integrate with Foundry VTT. It should say so somewhere on their website/Patreon/whatever. When you create an issue, please link to where we can see this for ourselves.
+- Double check that someone else hasn't already created an issue for it. If they have, then feel free to "bump" it to demonstrate demand and give us a nudge.
 
 If you're a map seller and would like to be listed in the **Authorized** section, please [create an Issue](https://github.com/SquareBottle/Awesome-FoundryVTT/issues) – but be ready to prove that you are indeed who you say you are! Awesome-FoundryVTT is new enough that we don't yet have a preferred way of doing this, so feel free to propose something. Here are a couple ideas:
 
