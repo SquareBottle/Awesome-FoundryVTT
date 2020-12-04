@@ -19,5 +19,7 @@ If you'd like to propose a repository to add below, please [create an Issue](htt
 
 ## Repositories
 
-- [Map Sellers] - People who sell ready-to-use maps. 
-- [Map Software] - Programs to make your own maps.
+- [Map Sellers](https://github.com/SquareBottle/Awesome-FoundryVTT/blob/main/Repository-of-Map-Sellers.md) - People who sell ready-to-use maps. 
+- [Map Software] - Coming soon! Programs to make your own maps.
+- [Token Sellers] - Coming soon!
+- [Token Software] - Coming soon!
